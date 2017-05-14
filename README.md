@@ -1,3 +1,3 @@
 # Colorweel
 
-Colorweel is an sidebar which changes its color relative to the scroll position of an html div.
+Colorweel give you the opportunity to change the color of an html container relative to the scroll position of another container.
